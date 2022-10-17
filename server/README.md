@@ -1,1 +1,1 @@
-# test read me file
+# test read me file configuring
